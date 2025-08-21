@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(219, 255, 198, 0.774);
+    /* Códigos de boa prática para a página: */
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.grupo-cards{
+    display: flex;
+}
+
+.card{
+    background-color: white;
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 2%;
+}
+
+.card img{
+    width: 299px;
+    border-radius: 5px;
+}
+
+.container button{
+    background-color:  rgba(219, 255, 198, 0.774);
+    padding: 10px 15px;
+    border-radius: 5px;
+}

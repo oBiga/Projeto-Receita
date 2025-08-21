@@ -1,0 +1,67 @@
+body {
+    background-color: rgba(219, 255, 198, 0.774);
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.container {
+    background-color: white;
+    width: 50%;
+    height: fit-content;
+    align-items: center;
+    margin: auto;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.introducao {
+    align-items: center;
+    margin: auto;
+    font-size: 19px;
+}
+
+.div-imagem {
+    /* Combo para alinhar itens no centro */
+    align-items: center;
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.div-imagem img {
+    width: 40%;
+    border-radius: 10px
+}
+
+.botao-receitas {
+    background-color: rgba(219, 255, 198, 0.774);
+    color: black;
+    padding: 15px 25px;
+    font-size: 15px;
+    font-weight: 600; 
+    border-radius: 7px;
+}
+
+.outras-receitas{
+    width: fit-content;
+    align-items: center;
+    margin: auto;
+    margin-top: 3%;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+footer{
+    color: gray;
+    text-align: center;
+    margin-top: 4%;
+
+}
